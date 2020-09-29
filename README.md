@@ -1,4 +1,4 @@
-# project-one
+# Analysis of COVID-19's Affect on Stock Market Volatility and News Article Content
 Project 1 for UC Berkeley Extension Data Analytics bootcamp.
 Panic! At the Data
 
